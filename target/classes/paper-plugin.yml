@@ -1,0 +1,4 @@
+name: DisableArmorToughness
+version: '1.0-SNAPSHOT'
+main: org.ajls.disableArmorToughness.DisableArmorToughness
+api-version: '1.21'

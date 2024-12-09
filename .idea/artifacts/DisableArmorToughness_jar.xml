@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DisableArmorToughness:jar">
+    <output-path>$PROJECT_DIR$/../../../MC/server/itself/1.20.1minigame/mw_test/plugins/</output-path>
+    <root id="archive" name="DisableArmorToughness.jar">
+      <element id="module-output" name="DisableArmorToughness" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MC/server/itself/1.20.1minigame/mw_test/plugins/lib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
